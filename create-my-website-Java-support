@@ -1,0 +1,4 @@
+function changeText() {
+  const message = "Text has been changed!";
+  document.querySelector('p').innerText = message;
+}
